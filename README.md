@@ -1,6 +1,9 @@
+**Project Overview**
+
 This project performs an analysis of retail sales data using SQL. The dataset includes transactions with attributes like date, customer information, product category, and sales figures. 
 The project involves data exploration, filtering, and sales aggregation.
 The project uses MySQL Workbench to run queries that are used to do the sales analysis.
+
 The objective of the analysis it to understand the trend of the sales and understand the market better.
 
 The project uses a sales table with the following columns:
